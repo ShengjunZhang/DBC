@@ -6,4 +6,4 @@ References: [1] Xinlei Yi, Shengjun Zhang, Tao Yang, Tianyou Chai, and Karl H. J
 
 version 1.0 -- February 2021.
 
-contact: Shengjun(Daniel) Zhang (sz0160@unt.edu)
+contact: Shengjun(Daniel) Zhang (shengjunzhang@my.unt.edu)
